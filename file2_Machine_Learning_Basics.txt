@@ -1,0 +1,16 @@
+Machine Learning (ML)
+Machine Learning (ML) is a subset of AI that focuses on developing algorithms that allow computers to learn from data without explicit programming.
+Types of ML:
+Supervised Learning: Uses labeled data to train models to predict outcomes.
+Unsupervised Learning: Finds patterns or clusters in unlabeled data.
+Reinforcement Learning: Trains agents to make sequential decisions by rewarding desired actions.
+Applications of ML:
+Recommendation systems
+Fraud detection
+Predictive analytics
+Key Components:
+Datasets
+Feature extraction
+Model training
+Evaluation
+Optimization

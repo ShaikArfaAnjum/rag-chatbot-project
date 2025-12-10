@@ -1,0 +1,8 @@
+Natural Language Processing (NLP) is a branch of AI that deals 
+with the interaction between computers and human language. 
+NLP enables machines to understand, interpret, and generate text or speech in a meaningful way.
+Language models are a core part of NLP, predicting the probability of a sequence of words and 
+generating human-like text. Recent advances include transformer-based models like GPT, BERT, and LLaMA, 
+which can perform tasks such as text summarization, translation, sentiment analysis, and question answering.
+NLP is used in chatbots, virtual assistants, search engines, and automated content generation. 
+Embeddings are used to represent words or documents in vector space for semantic understanding.

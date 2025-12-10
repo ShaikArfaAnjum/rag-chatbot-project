@@ -1,0 +1,10 @@
+Neural Networks
+Neural Networks are computational models inspired by the human brain’s structure and function. 
+They consist of layers of interconnected nodes called neurons, which process input data and transmit signals to subsequent layers.
+Neural networks can be shallow (few layers) or deep (many layers), with deep neural networks forming the foundation of deep learning.
+They are highly effective in recognizing patterns in images, speech, and text.
+Training neural networks involves adjusting the weights of connections using algorithms such as backpropagation and gradient descent.
+Popular Types of Neural Networks:
+Feedforward Neural Networks (FNNs)
+Convolutional Neural Networks (CNNs)
+Recurrent Neural Networks (RNNs)

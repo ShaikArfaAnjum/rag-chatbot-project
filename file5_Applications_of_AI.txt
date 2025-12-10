@@ -1,0 +1,9 @@
+AI has a wide range of applications that impact everyday 
+life and industries globally. In healthcare, AI assists in 
+medical imaging, diagnosis, and drug discovery.
+In finance, it is used for fraud detection, algorithmic trading,
+and risk assessment. Autonomous vehicles rely on AI for perception, 
+navigation, and decision-making. AI-powered recommendation systems enhance
+user experiences on platforms like Netflix, Amazon, and YouTube. Additionally, 
+AI is used in robotics, natural language interfaces, smart cities, and climate modeling. By automating tasks, improving accuracy, and providing insights from data,
+AI continues to revolutionize modern society.

@@ -1,0 +1,8 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed
+ to think and learn. 
+AI enables machines to perform tasks such as problem-solving, decision-making, perception,
+and language understanding. It is widely used in various industries including healthcare, finance,
+ education, and entertainment. AI systems can be rule-based or data-driven,
+  with modern AI relying heavily on machine learning and deep learning methods. 
+  The goal of AI is to create systems that can adapt, reason, and operate autonomously in dynamic environments.
+AI has grown rapidly due to advances in computing power, data availability, and sophisticated algorithms.
